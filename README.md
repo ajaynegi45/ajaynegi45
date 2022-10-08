@@ -42,7 +42,11 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaynegi45&show_icons=true&locale=en&layout=compact&theme=vue" alt="rishavchanda" /><br><img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaynegi45&show_icons=true&locale=en&theme=vue" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaynegi45&show_icons=true&locale=en&layout=compact&theme=vue" alt="rishavchanda" /></p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaynegi45&show_icons=true&locale=en&theme=vue" alt="rishavchanda" /></p>
 
 <br>
 
