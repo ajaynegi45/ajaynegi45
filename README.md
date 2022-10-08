@@ -37,16 +37,20 @@
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaynegi45&show_icons=true&locale=en&layout=compact&theme=vue" alt="ajaynegi45" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaynegi45&&theme=vue" alt="ajaynegi45" /></p>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajaynegi45&&theme=xcode)](https://github.com/ajaynegi45)
 
 <br />
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajaynegi45&&theme=xcode)](https://github.com/ajaynegi45)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaynegi45&show_icons=true&locale=en&layout=compact&theme=vue" alt="rishavchanda" /></p>
 
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaynegi45&theme=vue&show_icons=true&locale=en&layout=compact" alt="ajaynegi45" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaynegi45&show_icons=true&locale=en&theme=vue" alt="rishavchanda" /></p>
 
+<br />
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaynegi45&&theme=vue" alt="rishavchanda" /></p>
