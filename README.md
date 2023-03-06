@@ -29,9 +29,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__technical_boy45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__technical_boy45" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lapi_boy45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lapi_boy45" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajaynegi3345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaynegi3345" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/68De2PvDdR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/68De2PvDdR" height="30" width="40" /></a>
+<a href="https://twitter.com/technical_boy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaynegi3345" height="30" width="40" /></a>
+ <a href="https://discord.gg/https://discord.gg/68De2PvDdR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/68De2PvDdR" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3> 
 
