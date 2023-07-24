@@ -33,23 +33,23 @@
  
 <!-- Instagram -->
 <a href="https://instagram.com/ajaynegi.dev" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__technical_boy45" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__technical_boy45" height="30" width="40" target="_blank" /></a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/technical_boy3" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaynegi3345" height="33" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaynegi3345" height="33" width="40" target="_blank"/></a>
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/ajaynegi45/" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="ajaynegi45/" width="40" height="40"  /></a>
+<img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="ajaynegi45/" width="40" height="40"  target="_blank"/></a>
 
 <!-- Discord -->
 <a href="https://discord.gg/https://discord.gg/68De2PvDdR" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/discord--v2.png" alt="https://discord.gg/68De2PvDdR" height="40" width="40" /></a>
+<img align="center" src="https://img.icons8.com/color/48/discord--v2.png" alt="https://discord.gg/68De2PvDdR" height="40" width="40" target="_blank"/></a>
  
 <!-- Hashnode -->
 <a href="https://ajaynegi.co" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="ajaynegi.co" width="40" height="40" /></a>
+<img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="ajaynegi.co" width="40" height="40" target="_blank"/></a>
 
 </p>
 <!-- <h3 align="left">Languages and Tools:</h3> 
