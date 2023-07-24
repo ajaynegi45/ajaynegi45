@@ -48,7 +48,7 @@
 <img align="center" src="https://img.icons8.com/color/48/discord--v2.png" alt="https://discord.gg/68De2PvDdR" height="40" width="40" /></a>
  
 <!-- Hashnode -->
-<a href="https://hashnode.com/ajaynegi.co" target="blank">
+<a href="https://ajaynegi.co" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="ajaynegi.co" width="40" height="40" /></a>
 
 </p>
