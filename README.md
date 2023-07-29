@@ -23,7 +23,7 @@
 
 - 💞️ I’m looking for **cybercitizen**.
 
-- 📫 How to reach me **ajaynegi3345@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ajaynegi45)
 
 
 <br>
