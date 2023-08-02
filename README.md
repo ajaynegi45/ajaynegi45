@@ -1,4 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
+<br>
+
 <h1 align="center">Hi 👋,&nbsp;I'm Ajay Negi</h1>
 <h3 align="center">“Everybody should learn to program a computer, because it teaches you how to think.”</h3>
 <h5 align="center";align="bold">- Steve Jobs 💭</h5>
@@ -6,26 +8,24 @@
 
  <img align="right" src="https://komarev.com/ghpvc/?username=ajaynegi45&label=Profile%20views&color=88C298&style=flat" alt="ajaynegi45" />
 
-<h1 align="bold">💫  About Me:</h1>
+<h1 align="bold">💫  About Me</h1>
+<img align="right" alt="Coding" width="400" src="https://github.com/ajaynegi45/ajaynegi45/blob/main/Asset/imageoic.png">
+<!--<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👀 I’m curious to learn about new **technology**.
+- 👋 Hi there! I've got my eyes wide open 👀 for exciting new **technology**! 
 
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 Currently, I'm on a journey of mastering the art of **Full Stack Development**.
 
-- 🔭 I’m currently working on **Codie's Coders Community**.
+- 🏗️ In my spare time, I'm building a bustling little community called Codie's Coders – where geeks unite, and bugs tremble! 🐜💪 If you're up for some coding adventures, [join](https://discord.gg/https://discord.gg/68De2PvDdR) me on this crazy journey!
 
-- 💬 Ask me about **JAVA-Python**.
+- 💞️ Yo, fellow tech wizards! I'm not just a one-person tech show, I'm on the hunt for like-minded tech enthusiasts who share the same fire 🔥 for technology and coding 💞️.
+- So, if you're geeky, tech-savvy, and ready to connect, hit me up on [LinkedIn](https://www.linkedin.com/in/ajaynegi45) 📫, and let's rock the coding world together! 🚀
 
-- ✨ Hobby **hodophile {One who loves to travel}**.
+<!--- 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ajaynegi45) and let's embark on an epic coding adventure! 🚀-->
 
-- 💞️ I’m looking for **cybercitizen**.
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ajaynegi45)
-
-
+- Can't wait to meet you all! 🎉 Let's hack the world (legally, of course)! 🌐 💻
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -51,7 +51,7 @@
 <a href="https://ajaynegi.co" target="blank" rel="noopener noreferrer" >
 <img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="ajaynegi.co" width="40" height="40" /></a>
 
-</p>
+
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> 
@@ -61,14 +61,13 @@
 
 [![Ajay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ajaynegi45&&theme=xcode)](https://github.com/ajaynegi45)
 -->
-<br>
-<br>
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaynegi45&show_icons=true&locale=en&theme=vue" alt="ajaynegi45" /></p>
 -->
 
 
-
+<!--
 <p>&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaynegi45&&theme=vue" alt="ajaynegi45" /></p>
 
 <br>
@@ -80,4 +79,4 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaynegi45&show_icons=true&locale=en&layout=compact&theme=vue" alt="ajaynegi45" />
-</p>
+</p>-->
