@@ -9,7 +9,7 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=ajaynegi45&label=Profile%20views&color=88C298&style=flat" alt="ajaynegi45" />
 
 <h1 align="bold">💫  About Me</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/ajaynegi45/ajaynegi45/blob/main/Asset/imageoic.png">
+<img align="right" alt="Coding" width="350" src="https://github.com/ajaynegi45/ajaynegi45/blob/main/Asset/imageoic.png">
 <!--<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 
@@ -18,10 +18,10 @@
 
 - 🌱 Currently, I'm on a journey of mastering the art of **Full Stack Development**.
 
-- 🏗️ In my spare time, I'm building a bustling little community called Codie's Coders – where geeks unite, and bugs tremble! 🐜💪 If you're up for some coding adventures, [join](https://discord.gg/https://discord.gg/68De2PvDdR) me on this crazy journey!
+- 🏗️ In my spare time, I'm building a bustling little community called **[Codie's Coders](https://discord.gg/https://discord.gg/68De2PvDdR)** – where geeks unite, and bugs tremble! 🐜💪 If you're up for some coding adventures, join me on this crazy journey!
 
 - 💞️ Yo, fellow tech wizards! I'm not just a one-person tech show, I'm on the hunt for like-minded tech enthusiasts who share the same fire 🔥 for technology and coding 💞️.
-- So, if you're geeky, tech-savvy, and ready to connect, hit me up on [LinkedIn](https://www.linkedin.com/in/ajaynegi45) 📫, and let's rock the coding world together! 🚀
+- So, if you're geeky, tech-savvy, and ready to connect, hit me up on **[LinkedIn](https://www.linkedin.com/in/ajaynegi45)** 📫, and let's rock the coding world together! 🚀
 
 <!--- 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ajaynegi45) and let's embark on an epic coding adventure! 🚀-->
 
