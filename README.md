@@ -55,7 +55,10 @@
 
 
 [![An image of @ajaynegi45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaynegi45)](https://holopin.io/@ajaynegi45)
-<img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge" />
+<a href="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw" target="_blank">
+  <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge" />
+</a>
+
 
 
 
