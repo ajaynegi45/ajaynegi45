@@ -51,6 +51,11 @@
 <a href="https://ajaynegi.co" target="blank" rel="noopener noreferrer" >
 <img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="ajaynegi.co" width="40" height="40" /></a>
 
+<h3>Digital Badges</h3>
+
+
+[![An image of @ajaynegi45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaynegi45)](https://holopin.io/@ajaynegi45)
+
 
 
 
