@@ -32,11 +32,11 @@
 <p align="left">
  
 <!-- Instagram -->
-<a href="https://instagram.com/ajaynegi.dev" target="blank" rel="noopener noreferrer" >
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__technical_boy45" height="30" width="40"/> </a>
+<!-- <a href="https://instagram.com/ajaynegi.dev" target="blank" rel="noopener noreferrer" >
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__technical_boy45" height="30" width="40"/> </a> -->
 
 <!-- Twitter -->
-<a href="https://twitter.com/technical_boy3" target="blank" rel="noopener noreferrer" >
+<a href="https://twitter.com/ajaynegi45" target="blank" rel="noopener noreferrer" >
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaynegi3345" height="33" width="40" /> </a>
 
 <!-- LinkedIn -->
