@@ -48,7 +48,7 @@
 <img align="center" src="https://img.icons8.com/color/48/discord--v2.png" alt="https://discord.gg/68De2PvDdR" height="40" width="40"/></a>
  
 <!-- Hashnode -->
-<a href="https://ajaynegi.co" target="blank" rel="noopener noreferrer" >
+<a href="https://ajaynegi.hashnode.dev/" target="blank" rel="noopener noreferrer" >
 <img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="ajaynegi.co" width="40" height="40" /></a>
 
 <h3>Digital Badges</h3>
