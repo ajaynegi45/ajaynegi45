@@ -1,4 +1,3 @@
-<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
 <br>
 
 <h1 align="center">Hi 👋,&nbsp;I'm Ajay Negi</h1>
@@ -91,3 +90,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaynegi45&show_icons=true&locale=en&layout=compact&theme=vue" alt="ajaynegi45" />
 </p>-->
+
+
+
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
+
