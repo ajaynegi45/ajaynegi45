@@ -59,7 +59,9 @@
   <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="150" height="150"  />
 </a>
 
-
+<a href="https://www.credly.com/badges/5606e039-f9cd-45b8-abd4-ddb3abd712c7/public_url" target="_blank">
+  <img src="https://github.com/ajaynegi45/ajaynegi45/blob/main/Asset/aws-educate-machine-learning-foundations%20(1).png" alt="AWS Educate Machine Learning Foundation"  width="150" height="150"  />
+</a>
 
 
 
