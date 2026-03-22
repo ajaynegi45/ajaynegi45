@@ -17,7 +17,7 @@
 
 - 🌱 Currently, I'm on a journey of mastering the art of **Full Stack Development**.
 
-- 🏗️ In my spare time, I'm building a bustling little community called **[Codie's Coders](https://discord.gg/https://discord.gg/68De2PvDdR)** – where geeks unite, and bugs tremble! 🐜💪 If you're up for some coding adventures, join me on this crazy journey!
+<!-- - 🏗️ In my spare time, I'm building a bustling little community called **[Codie's Coders](https://discord.gg/https://discord.gg/68De2PvDdR)** – where geeks unite, and bugs tremble! 🐜💪 If you're up for some coding adventures, join me on this crazy journey! -->
 
 - 💞️ Yo, fellow tech wizards! I'm not just a one-person tech show, I'm on the hunt for like-minded tech enthusiasts who share the same fire 🔥 for technology and coding 💞️.
 - So, if you're geeky, tech-savvy, and ready to connect, hit me up on **[LinkedIn](https://www.linkedin.com/in/ajaynegi45)** 📫, and let's rock the coding world together! 🚀
